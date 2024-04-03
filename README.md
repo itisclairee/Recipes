@@ -28,5 +28,5 @@ We value your feedback! If you have any suggestions, questions, or encounter any
 Download Ciao Chef! and get Cooking!
 
 
-Developer: [Chiara Cangelosi]
+
 
