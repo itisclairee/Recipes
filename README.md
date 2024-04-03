@@ -3,7 +3,7 @@ Ciao Chef! 🇮🇹👨‍🍳
 
 Welcome to Ciao Chef! - Your Ultimate Italian Recipes Guide.
 
-::link: ## **Introduction**
+:link: ## **Introduction**
 
 Ciao Chef! is an app designed to provide you with many recipes of authentic Italian culture. Whether you're a seasoned chef or just starting out in the kitchen, this app could be your perfect companion.
 
