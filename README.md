@@ -2,11 +2,11 @@
 Ciao Chef! 🇮🇹👨‍🍳
 
 Welcome to Ciao Chef! - Your Ultimate Italian Recipes Guide.
+![Image Space](https://github.com/itisclairee/Recipes/assets/148436340/214d98b4-b496-4e7c-91a1-40dcf4446361)
 
 ##  :link: **Introduction**
 
 Ciao Chef! is an app designed to provide you with many recipes of authentic Italian culture. Whether you're a seasoned chef or just starting out in the kitchen, this app could be your perfect companion.
-![Image Space](https://github.com/itisclairee/Recipes/assets/148436340/214d98b4-b496-4e7c-91a1-40dcf4446361)
 
 
 ##  :link: **Features**
