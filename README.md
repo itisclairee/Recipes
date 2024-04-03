@@ -9,10 +9,10 @@ Ciao Chef! is an app designed to provide you with many recipes of authentic Ital
 
 ##  :link: **Features**
 
-Italian Recipes: Explore a wide variety of traditional Italian recipes, ranging from classic pasta dishes to delicious desserts.
-Filter by Difficulty: Easily find recipes suitable for your skill level by filtering them based on difficulty.
-Integration of UiKit and SwiftUI: Experience the seamless integration of UIKit and SwiftUI throughout the app, providing a smooth and immersive user experience.
-SwiftUI Detail Page: Dive deeper into your favorite recipes with SwiftUI detail pages, offering a visually appealing and interactive way to view recipe details. From ingredients to step-by-step instructions, everything you need to recreate the dish is right there.
+-Italian Recipes: Explore a wide variety of traditional Italian recipes, ranging from classic pasta dishes to delicious desserts.
+-Filter by Difficulty: Easily find recipes suitable for your skill level by filtering them based on difficulty.
+-Integration of UiKit and SwiftUI: Experience the seamless integration of UIKit and SwiftUI throughout the app, providing a smooth and immersive user experience.
+-SwiftUI Detail Page: Dive deeper into your favorite recipes with SwiftUI detail pages, offering a visually appealing and interactive way to view recipe details. From ingredients to step-by-step instructions, everything you need to recreate the dish is right there.
 
 ##  :link: **UIKit and SwiftUI?**
 
