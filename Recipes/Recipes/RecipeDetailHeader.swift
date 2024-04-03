@@ -14,7 +14,7 @@ struct RecipeDetailHeader: View {
     
     var body: some View
     {
-        //VStack(alignment: .leading, spacing: 26)
+        //header in which there is the recipe image and the difficulty level
         VStack(alignment: .center, spacing: 26)
         {
             Image(recipe.title.lowercased()).resizable().scaledToFit().opacity(0.9).shadow(radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/)

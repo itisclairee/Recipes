@@ -15,6 +15,8 @@ struct RecipeSteps: View
     
     var body: some View 
     {
+        /*in order to see both the ingredients and the instructions we are going to use a picker */
+        
                 VStack (alignment: .leading)
                 {
                     Picker("", selection: $selectedSegment)

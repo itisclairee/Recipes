@@ -52,14 +52,13 @@ class RecipeViewController: UIViewController, UICollectionViewDelegate
     private func configureDataSource() {
             let cellRegistration = UICollectionView.CellRegistration<UICollectionViewListCell, Recipe> { cell, indexPath, recipe in
                 var content = cell.defaultContentConfiguration()
-                content.text = nil // Nascondi il testo predefinito della cella
-                content.secondaryText = nil // Nascondi il testo secondario predefinito della cella
+                content.text = nil
+                content.secondaryText = nil 
                 cell.contentConfiguration = content
                 
-                // Rimuovi eventuali sotto-viste precedenti dalla contentView
                 cell.contentView.subviews.forEach { $0.removeFromSuperview() }
                 
-                // Aggiungi l'immagine
+                // image
                 if let image = recipe.image
                 {
                     let imageView = UIImageView(image: recipe.image)
@@ -75,7 +74,7 @@ class RecipeViewController: UIViewController, UICollectionViewDelegate
                     ])
                 }
                 
-                // Aggiungi il titolo
+                // title
                 let titleLabel = UILabel()
                 titleLabel.text = recipe.title
                 titleLabel.font = UIFont.boldSystemFont(ofSize: 16)
@@ -133,8 +132,10 @@ class RecipeViewController: UIViewController, UICollectionViewDelegate
         )
     }
     
+    /* Inside the segue action, we will create an instance of the FilterView and pass it the FilterState stored in the view controller. Then we will initialize a UIHostingController with the coder passed to the action and the SwiftUI view. We are going to set a medium detent on its sheetPresentationController property so that the filter sheet only covers half of the screen. */
     
-    @IBSegueAction func showFilter(_ coder: NSCoder) -> UIViewController? 
+    
+    @IBSegueAction func showFilter(_ coder: NSCoder) -> UIViewController?
     {
         let filterView = FilterView(filterState: filterState)
         let controller = UIHostingController(

@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct FilterList: View {
+    //The view will receive a binding to an optional Exercise.Difficulty to mark the selection.
     
     @Binding var selection: Recipe.Difficulty?
     
