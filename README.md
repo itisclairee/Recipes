@@ -1,6 +1,8 @@
 # Ciao Chef!
-![Image Space](https://github.com/itisclairee/Recipes/assets/148436340/214d98b4-b496-4e7c-91a1-40dcf4446361)
+
 Ciao Chef! 🇮🇹👨‍🍳
+
+![Image Space](https://github.com/itisclairee/Recipes/assets/148436340/214d98b4-b496-4e7c-91a1-40dcf4446361)
 
 Welcome to Ciao Chef! - Your Ultimate Italian Recipes Guide.
 
