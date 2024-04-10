@@ -25,7 +25,7 @@ The primary motivation behind developing Ciao Chef! was to experiment and learn 
 
 ##  :link: **Feedback**
 
-We value your feedback! If you have any suggestions, questions, or encounter any issues while using Ciao Chef!, please don't hesitate to reach out to us. Your input helps us improve the app and provide you with an even better culinary experience.
+If you have any suggestions, questions, or encounter any issues while using Ciao Chef!, please don't hesitate to reach out. Your input helps us improve the app and provide you with an even better culinary experience.
 
 Download Ciao Chef! and get Cooking!
 
